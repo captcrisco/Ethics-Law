@@ -1,0 +1,48 @@
+🔹 1. MIT License (Permissive, Minimal)
+
+✅ Freedom: You can use, modify, and redistribute the code — even in closed-source/proprietary software.
+
+⚖️ Obligation: Must include the copyright notice and license text.
+
+🔓 Effect: Very business-friendly; almost no restrictions.
+
+🔹 2. GNU GPL (Copyleft, Strict)
+
+✅ Freedom: You can use, modify, and redistribute, but…
+
+⚖️ Obligation: Any derivative or combined work must also be released under GPL (the “copyleft” rule).
+
+🔒 Effect: Ensures software stays open-source forever. Not compatible with proprietary use.
+
+Example: If you link GPL code into your app, your whole app may have to be GPL.
+
+🔹 3. Apache License 2.0 (Permissive + Patent Protection)
+
+✅ Freedom: Like MIT, you can use in open-source or proprietary projects.
+
+⚖️ Obligation: Must preserve license & notices, state changes, and include NOTICE file.
+
+🛡️ Unique Feature: Provides an explicit patent license, protecting users from patent claims.
+
+🔓 Effect: Popular in enterprise projects (Hadoop, Spark, Kafka) because it balances openness with business safety.
+
+
+cert template
+Have you attempted to contact the vendor?
+Do you believe multiple vendors are affected?
+What is the name of the affected product or software?
+What version number of the product or software is affected?
+Significant ICS/OT impact? 
+What is the vulnerability?
+How does an attacker exploit this vulnerability?
+What does an attacker gain by exploiting this vulnerability? (i.e. what is the impact?)
+How was the vulnerability discovered?
+Is this vulnerability publicly known?
+Is there evidence that this vulnerability is being actively exploited?
+Do you plan to publicly disclose this vulnerability yourself? 
+contact information
+Do you want us to share your contact information with vendors? 
+Do you want to be acknowledged by name in any published document about this vulnerability? 
+Public PGP key
+Tracking IDs
+Private Comments
